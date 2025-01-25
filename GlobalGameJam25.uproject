@@ -29,15 +29,6 @@
 			]
 		},
 		{
-			"Name": "InterchangeEditor",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"Mac"
-			]
-		},
-		{
 			"Name": "Interchange",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
