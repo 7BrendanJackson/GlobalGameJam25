@@ -195,6 +195,18 @@
 		{
 			"Name": "UObjectPlugin",
 			"Enabled": false
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "EnvironmentQueryEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "AISupport",
+			"Enabled": false
 		}
 	]
 }
