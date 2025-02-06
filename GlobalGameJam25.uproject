@@ -216,6 +216,10 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "GoogleCloudMessaging",
+			"Enabled": false
 		}
 	]
 }
