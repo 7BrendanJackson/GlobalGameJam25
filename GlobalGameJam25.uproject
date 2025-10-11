@@ -221,5 +221,8 @@
 			"Name": "GoogleCloudMessaging",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
